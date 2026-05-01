@@ -67,3 +67,12 @@ p{
 .kvadrat{
 	list-style-type:square;
 }
+
+.gore_tekst{
+	margin-top:-35px;
+}
+
+.slika{
+	white-space:nowrap;
+}
+
